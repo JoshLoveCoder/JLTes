@@ -14,5 +14,9 @@ here
 不好吃啊，，，砸吧
 
 
+<<<<<<< Updated upstream
 吃法多样化
 
+=======
+iuiurew
+>>>>>>> Stashed changes
