@@ -3,9 +3,9 @@ for testing
 11
 22 3:00
 
-
+last edit for study Git tek
 no2 4:06
-
+good here is main ,tab ls
 999 master
 getname
 here
